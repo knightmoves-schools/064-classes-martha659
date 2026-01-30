@@ -1,6 +1,8 @@
-class person(firstName, lastName) {
+class Person {
+    consturcto(firstName, lastName) {
     this.firstName = firstName;
     this.lastName = lastName;
+ }
 }
 
 const guests = [
